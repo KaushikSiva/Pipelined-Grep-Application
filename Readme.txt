@@ -1,6 +1,5 @@
 
 
-
 PROJECT BY :
 
 Kaushik Sivakumar  kxs104820@utdallas.edu 2021108266
@@ -17,12 +16,11 @@ WE have finished the 100 mark code completely
 however, we dint have time to finish the bonus 20% part ,so we have just included a file bonuspoints.c which prints the file 
 in the current folder as well subfolders for partial credit in the bonus points     
 ALso This code has been designed and made to run suceessfully for 58 files in the folder.
-_____________________________________________________________________________________________________________________
+
 
 INTRODUCTION
 
 The project is done in C.
-_____________________________________________________________________________________________________________________
 
 OBJECTIVE
 
@@ -31,7 +29,6 @@ pthreads to implement a pipelined grep application.Pipelined grep will search al
 The user is also able to filter files out of the search based on file size, file user id, and file group id. 
 This is a five stage pipeline where there is one thread per stage.There is a buffer between the adjacent stages.
 
-______________________________________________________________________________________________________________________
 
 
 DELIVERABLES
@@ -59,7 +56,7 @@ c) "searchstring"    : The  string which is searched
 
 -----------------------------------------------------------------------------
 
-(2) a description of your critical sections
+(2) a description of critical sections
 
 
 This is a five stage pipeline where there is one thread per stage.There is a buffer between the adjacent stages.
